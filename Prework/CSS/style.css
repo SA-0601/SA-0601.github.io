@@ -7,7 +7,6 @@
         border-color: brown;
         padding: 0%;
         margin: 0.5%;
-        
       }
       
       h1{
@@ -19,6 +18,7 @@
         text-align: center;
         text-transform: capitalize;
       }
+      
       h2{
         color: rgb(154, 13, 13);
         font-weight: 100;
